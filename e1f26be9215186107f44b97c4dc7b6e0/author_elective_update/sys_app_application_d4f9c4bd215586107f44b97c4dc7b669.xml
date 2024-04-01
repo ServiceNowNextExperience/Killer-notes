@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="DELETE">
+        <active>true</active>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name>Category</name>
+        <order>100</order>
+        <roles>x_snc_killer_notes.category_user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-01 18:58:58</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d4f9c4bd215586107f44b97c4dc7b669</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Category</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Killer Notes" source="x_snc_killer_notes">e1f26be9215186107f44b97c4dc7b6e0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Killer Notes">e1f26be9215186107f44b97c4dc7b6e0</sys_scope>
+        <sys_update_name>sys_app_application_d4f9c4bd215586107f44b97c4dc7b669</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-01 18:58:58</sys_updated_on>
+        <title>Category</title>
+        <view_name/>
+    </sys_app_application>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Killer Notes">e1f26be9215186107f44b97c4dc7b6e0</application>
+        <file_path/>
+        <instance_id>e261eb58db91ce50b12acafc139619a9</instance_id>
+        <instance_name>CCL1199-mar28-518-001-instructor</instance_name>
+        <name>sys_app_application_d4f9c4bd215586107f44b97c4dc7b669</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application"><sys_app_application action="INSERT_OR_UPDATE"><active>true</active><category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category><description/><device_type>browser</device_type><hint/><name>Category</name><order>100</order><roles>x_snc_killer_notes.category_user</roles><sys_class_name>sys_app_application</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-04-01 18:58:58</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>d4f9c4bd215586107f44b97c4dc7b669</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Category</sys_name><sys_overrides/><sys_package display_value="Killer Notes" source="x_snc_killer_notes">e1f26be9215186107f44b97c4dc7b6e0</sys_package><sys_policy/><sys_scope display_value="Killer Notes">e1f26be9215186107f44b97c4dc7b6e0</sys_scope><sys_update_name>sys_app_application_d4f9c4bd215586107f44b97c4dc7b669</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-04-01 18:58:58</sys_updated_on><title>Category</title><view_name/></sys_app_application></record_update>]]></payload>
+        <payload_hash>1014937787</payload_hash>
+        <record_name>Category</record_name>
+        <reverted_from/>
+        <source>e5f26be9215186107f44b97c4dc7b6e2</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-01 18:58:58</sys_created_on>
+        <sys_id>94f9c4bd215586107f44b97c4dc7b678</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18e9b076a680000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-01 18:58:58</sys_updated_on>
+        <type>Application Menu</type>
+        <update_guid>98f9c4bd1e5586107ed65fd2efce7a77</update_guid>
+        <update_guid_history>98f9c4bd1e5586107ed65fd2efce7a77:1014937787</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Category">124a80fd215586107f44b97c4dc7b64c</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-01 19:00:28</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_application">sys_app_application</sys_db_object>
+        <sys_id>0f75da924e7343f0a7d76a007fe801b1</sys_id>
+        <sys_metadata>d4f9c4bd215586107f44b97c4dc7b669</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Category</sys_name>
+        <sys_package display_value="Killer Notes" source="x_snc_killer_notes">e1f26be9215186107f44b97c4dc7b6e0</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Killer Notes">e1f26be9215186107f44b97c4dc7b6e0</sys_scope>
+        <sys_scope_delete display_value="">4c87d284559b4b18bce4e66dd9188964</sys_scope_delete>
+        <sys_update_name>sys_app_application_d4f9c4bd215586107f44b97c4dc7b669</sys_update_name>
+        <sys_update_version display_value="sys_app_application_d4f9c4bd215586107f44b97c4dc7b669">94f9c4bd215586107f44b97c4dc7b678</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-01 19:00:28</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
